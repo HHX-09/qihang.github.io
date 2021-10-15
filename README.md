@@ -15,8 +15,8 @@
         }   
 
         #content2{
-            width: 300px;
-            height: 100px;
+            width: 350px;
+            height: 150px;
             background-color: #ccc;
             margin: auto;
             top: 0;
