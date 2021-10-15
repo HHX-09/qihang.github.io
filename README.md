@@ -60,7 +60,7 @@
     </div>
 
     <script>
-        var arr = ['章鱼小丸子','螺丝粉','南昌拌粉','酸辣粉','黄焖鸡','麻辣烫','烧烤','花甲粉','煲仔饭','炸鸡汉堡','拉面','酸菜鱼','火锅','自助','体育公园烧腊饭','寿司','盖浇饭','华莱士'];
+        var arr = ['章鱼小丸子','螺丝粉','南昌拌粉','酸辣粉','黄焖鸡','麻辣烫','烧烤','花甲粉','煲仔饭','炸鸡汉堡','拉面','酸菜鱼','火锅','自助','烧腊饭','寿司','盖浇饭','华莱士'];
         var btn = document.getElementById('btn');
         var content = document.getElementById('content');
         var span = document.getElementById('span');
